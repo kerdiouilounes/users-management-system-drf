@@ -1,0 +1,6 @@
+# Ignore the Visual Studio Code workspace file
+*.code-workspace
+
+# Ignore the virtual environment directory
+venv/
+
